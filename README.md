@@ -15,9 +15,9 @@ Original App Design Project - README Template
 ### Description
 [Description of your app]
 
-An iOS mobile app that provides the latest stock market, fianncial, and business news that drives the market.
+An iOS mobile app that provides the latest stock market, financial, and business news that drives the market.
 
-StockTracker makes it easy to follow your foavorite stocks, view quotes and daily performance in a customizable watchlist, and tap any ticker to see an interactive chart and key details about the stock's perormance. StockTracker also includes latest business news from top publications around the world.
+StockTracker makes it easy to follow the performance of your favorite stocks, create customizable watchlist, and get the latest financial and business news sourced from top publications around the world.
 
 
 # Features
@@ -27,25 +27,23 @@ StockTracker makes it easy to follow your foavorite stocks, view quotes and dail
 
 • Customize your watchlist with stocks, indexes, mutual funds, ETFs, currencies, and more.
 
-• View price quotes and tap to toggle between price change, percentage change, and market capitalization.
+• View stock's price quote, price change, percentage change, and market capitalization.
 
-• Color-coded sparklines let you easily track stock performance throughout the day.
-
-
-*Charts and details*
-
-• Tap any ticker in your watchlist to see price charts for day, week, month, and multi-month periods.
-
-• Touch the chart with one finger to see the price at a specific date or time, or touch with two fingers to view price change over time.
-
-• View key details including after-hours price, trading volume, EPS, and more.
+• Easily track stock performance throughout the day through an interview colored chart.
 
 
-*Business News*
+*Stock Performance*
 
-• Read Top Stories selected by Apple News editors for the latest news driving the market.
+• See stock's price charts for day, week, month, and multi-month periods.
 
-• Read and watch stories about the companies you follow, from a select group of top-rated business publications.
+• See the price at a specific date or time, or touch with two fingers to view price change over time.
+
+• View stock's key details including after-hours price, trading volume, EPS, and more.
+
+
+*News*
+
+• Read Top Stories driving the market sourced from top-rated business and financial publications.
 
 
 
@@ -53,10 +51,10 @@ StockTracker makes it easy to follow your foavorite stocks, view quotes and dail
 [Evaluation of your app across the following attributes]
 - **Category:** Financial
 - **Mobile:** Mobile is the primary point of access to information.
-- **Story:** StockTrackers allows easy way to track your favorite stocks, view stock performance, and read top business driving the market. 
-- **Market:**  Any person interest in the Stock Market and Financial / Business News.
+- **Story:** StockTrackers allows easy to follow the performance of your favorite stocks, create customizable watchlist, and get the latest financial                 and business news sourced from top publications around the world. 
+- **Market:**  Any person interested in the Stock Market and Financial / Business News.
 - **Habit:** Stock exhcange is frequently done on mobile. 
-- **Scope:** StockTracker allowws users to get the latest stock market overiew, stock information, and financial news. 
+- **Scope:** StockTracker allows for all in one place to view stock market updates.
 
 ## Product Spec
 
