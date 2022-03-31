@@ -102,7 +102,7 @@ StockTracker makes it easy to follow the performance of your favorite stocks, cr
 
 **Flow Navigation** (Screen to Screen)
 
-* Stock Watchlist Screen (Home)
+* Stock Watchlist Screen
 * Stock Expanded Details Screen
 * News Screen
 
