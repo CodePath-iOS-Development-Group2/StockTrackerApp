@@ -122,9 +122,8 @@ StockTracker makes it easy to follow the performance of your favorite stocks, cr
 ### Models
 Post
 
-<img src= "https://imgur.com/cXdhmKw.gif" width=600>
 
-<img src= "<img src= "https://imgur.com/cXdhmKw.gif" width=600>.gif" width=600>
+<img src= "https://imgur.com/cXdhmKw.gif" width=600>
 
 
 
