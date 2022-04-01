@@ -160,9 +160,9 @@ https://github.com/CodePath-iOS-Development-Group2/FlightTrackingApp/projects?ty
 
 ## Unit 8 - Sprint 2
 
-- [x] Show stock chart, yearly high
-- [x] Search bar 
-- [x] Show news relating to stock
+- [x] Show stock chart and yearly high
+- [x] Implement search bar 
+- [x] Show top news relating to specific stock
 
 <img src="https://media.giphy.com/media/HDCVxpkspy5Kk0BfQm/giphy.gif" width=250>
 
