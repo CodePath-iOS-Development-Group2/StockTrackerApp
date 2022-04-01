@@ -150,7 +150,7 @@ https://github.com/CodePath-iOS-Development-Group2/FlightTrackingApp/projects?ty
 
 ## Unit 7 - Sprint 1 
 
--* [x] Show app through watchlist
+-[x] Show app through watchlist
 -[x] Show watchlist
 -[x] Show news relating to stock
 
