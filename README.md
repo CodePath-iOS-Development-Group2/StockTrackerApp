@@ -148,6 +148,5 @@ https://github.com/CodePath-iOS-Development-Group2/FlightTrackingApp/projects?ty
 - [x] Completed user stories checked-off in README (2pts)
 - [x] Gifs created to show build progress and added to README (3pts)
 
-<img src="https://media.giphy.com/media/1VAcxgWY1pklqZKzrQ/giphy.gif" width=550><br>
 <img src="https://media.giphy.com/media/hlFG7fFu7QpHOI8mSX/giphy.gif" width=550><br>
 
