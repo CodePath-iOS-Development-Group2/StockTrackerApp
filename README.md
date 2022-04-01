@@ -152,7 +152,7 @@ https://github.com/CodePath-iOS-Development-Group2/FlightTrackingApp/projects?ty
 
 The following functionality is completed:
 
-- [x] User can view watchlist.
+- [x] User can view stock watchlist.
 - [x] User top news relating to specific stock.
  
 
