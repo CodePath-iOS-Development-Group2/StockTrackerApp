@@ -162,9 +162,9 @@ The following functionality is completed:
 
 The following functionality is completed:
 
-- [x] Show stock chart and yearly high
-- [x] Implement search bar 
-- [x] Show top news relating to specific stock
+- [x] Show can see see stock performance such as chart and yearly high.
+- [x] User can use search bar to find specific performance of specific stocks. 
+- [x] User can read top stories driving the market sourced from top-rated business and financial publications.
 
 <img src="https://media.giphy.com/media/HDCVxpkspy5Kk0BfQm/giphy.gif" width=250>
 
