@@ -150,9 +150,9 @@ https://github.com/CodePath-iOS-Development-Group2/FlightTrackingApp/projects?ty
 
 ## Unit 7 - Sprint 1 
 
--[x] Show app through watchlist
--[x] Show watchlist
--[x] Show news relating to stock
+- [x] Show app through watchlist
+- [x] Show watchlist
+- [x] Show news relating to stock
 
 
 
@@ -160,9 +160,9 @@ https://github.com/CodePath-iOS-Development-Group2/FlightTrackingApp/projects?ty
 
 ## Unit 8 - Sprint 2
 
--[x] Show stock chart, yearly high
--[x] Search bar 
--[x] Show news relating to stock
+- [x] Show stock chart, yearly high
+- [x] Search bar 
+- [x] Show news relating to stock
 
 <img src="https://media.giphy.com/media/HDCVxpkspy5Kk0BfQm/giphy.gif" width=250>
 
