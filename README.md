@@ -1,9 +1,9 @@
-# StockTracker 
+# StockTrackerApp 
 
 Original App Design Project - README Template
 ===
 
-# StockTracker App
+# StockTrackerApp
 
 ## Table of Contents
 1. [Overview](#Overview)
