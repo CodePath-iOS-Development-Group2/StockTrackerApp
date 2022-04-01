@@ -138,6 +138,8 @@ Post
 
 ## Unit 7 - Sprint 1 - User Stories
 
+Milestone Deliverables:
+
 - [x] Sprint Plan in place using GitHub project management flow.
     - [x] GitHub Project created (1pt)
     - [x] GitHub Milestones created (1pt)
@@ -157,6 +159,8 @@ The following functionality is completed:
 <img src="https://media.giphy.com/media/k8awEDbfgry1uTZGf6/giphy.gif" width=250>
 
 ## Unit 8 - Sprint 2 - User Stories
+
+Milestone Deliverables:
 
 - [x] Updated status of issues in Project board (2pts)
 - [x] Sprint planned for next week (Issues created, assigned & added to project board) (3pts)
