@@ -129,7 +129,7 @@ Post
 ### Networking
 - [Add list of network requests by screen ]
 
-<img src= "https://imgur.com/UtS3bup.gif" width=600>
+<img src= "https://imgur.com/QThLhZp.gif" width=600>
 
 - (READ/GET) Fetch stock data. 
 - (READ/GET) Fetch top news. 
