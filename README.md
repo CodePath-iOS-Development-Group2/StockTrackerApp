@@ -150,6 +150,8 @@ https://github.com/CodePath-iOS-Development-Group2/FlightTrackingApp/projects?ty
 
 ## Unit 7 - Sprint 1 - User Stories
 
+The following functionality is completed:
+
 - [x] Show app through watchlist
 - [x] Show watchlist
 - [x] Show news relating to stock
@@ -157,6 +159,8 @@ https://github.com/CodePath-iOS-Development-Group2/FlightTrackingApp/projects?ty
 <img src="https://media.giphy.com/media/k8awEDbfgry1uTZGf6/giphy.gif" width=250>
 
 ## Unit 8 - Sprint 2 - User Stories
+
+The following functionality is completed:
 
 - [x] Show stock chart and yearly high
 - [x] Implement search bar 
