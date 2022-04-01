@@ -112,7 +112,7 @@ StockTracker makes it easy to follow the performance of your favorite stocks, cr
 
 
 
-<img src= "https://imgur.com/F65fYID.gif" width=600>
+<img src= "https://imgur.com/Yo7sMuV.gif" width=600>
 
 
 
