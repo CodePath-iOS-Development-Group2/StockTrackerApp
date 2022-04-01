@@ -152,9 +152,9 @@ https://github.com/CodePath-iOS-Development-Group2/FlightTrackingApp/projects?ty
 
 The following functionality is completed:
 
-- [x] Show app through watchlist
-- [x] Show watchlist
-- [x] Show news relating to stock
+- [x] User can view watchlist.
+- [x] User top news relating to specific stock.
+ 
 
 <img src="https://media.giphy.com/media/k8awEDbfgry1uTZGf6/giphy.gif" width=250>
 
