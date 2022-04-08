@@ -203,7 +203,7 @@ Milestone Deliverables:
 
 The following is completed:
 
--[x] Create Demo Video.
+- [x] Create Demo Video.
 
 https://youtu.be/Z-xxJpVKM9c
 
