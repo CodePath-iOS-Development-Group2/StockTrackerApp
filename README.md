@@ -188,6 +188,10 @@ The following functionality is completed:
 
 - [x] Fetch news data from API.
 - [x] Implement storyboard for news screen.
+
+
+<img src="https://media.giphy.com/media/QQZweyUWptn43r3GOC/giphy.gif" width=250>
+<img src="https://media.giphy.com/media/Jdhc9ZAZrRYEtAHJUR/giphy.gif" width=250>
 <img src="https://media.giphy.com/media/70wEyX7NKY9wviiXsK/giphy.gif" width=250>
 
 
