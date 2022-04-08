@@ -196,6 +196,13 @@ The following functionality is completed:
 
 ## Unit 10 - Sprint 4 
 
+Milestone Deliverables: 
+
+- [x] Create a narrated walkthrough video of your completed app.
+- [x] Present your app at Demo Day.
+
+The following is completed:
+
 -[x] Create Demo Video.
 
 https://youtu.be/Z-xxJpVKM9c
