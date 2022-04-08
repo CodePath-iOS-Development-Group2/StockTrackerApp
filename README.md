@@ -205,7 +205,7 @@ The following is completed:
 
 -[x] Create Demo Video.
 
-<img src="https://youtu.be/Z-xxJpVKM9c" width=250>
+<img src="https://youtu.be/Z-xxJpVKM9c.gif" width=250>
 
 https://youtu.be/Z-xxJpVKM9c
 
