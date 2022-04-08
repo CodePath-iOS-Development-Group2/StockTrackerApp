@@ -175,8 +175,19 @@ The following functionality is completed:
 
 <img src="https://media.giphy.com/media/HDCVxpkspy5Kk0BfQm/giphy.gif" width=250>
 
+## Unit 9 - Sprint 3 - User Stories
 
+Milestone Deliverables:
 
+- [x] Updated status of issues in Project board (2pts)
+- [x] Sprint planned for next week (Issues created, assigned & added to project board) (3pts)
+- [x] Completed user stories checked-off in README (2pts)
+- [x] Gifs created to show build progress and added to README (3pts)
+
+The following functionality is completed:
+
+- [x] Fetch news data from API.
+- [x] Implement storyboard for news screen.
 
 
 
