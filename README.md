@@ -208,7 +208,7 @@ The following is completed:
 https://youtu.be/Z-xxJpVKM9c
 
 <img src="https://media.giphy.com/media/U9eSEi89P6pmJbbhXg/giphy.gif" width=250>
-<img src="http://www.giphy.com/gifs/dySAHQQIAyYWDQonjE.gif" width=250>
+<img src="https://media.giphy.com/media/dySAHQQIAyYWDQonjE/giphy.gif" width=250>
 
 
 
